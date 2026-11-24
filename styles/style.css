@@ -40,8 +40,6 @@ ul,
 ol {
   list-style: none;
 }
-
-/* Кастомный скроллбар */
 .content {
   display: flex;
   align-items: flex-end;
